@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://vishal:qwerty@123@cluster0.fvlxuux.mongodb.net/",
+    "jwtSecret": "secret"
+}
